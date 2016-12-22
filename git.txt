@@ -1,0 +1,29 @@
+GIT-verssion control system
+
+git is a distributed system
+
+local repository & remote repository
+
+if something happens in remote you have it in local
+
+git --version
+
+set up global config vari:
+
+git config --global user.email"ygowtham98@gmal.com"
+
+need help?
+git help<verb>
+git<verb> --help
+
+.git contains every thing about repository
+
+git init
+git status
+
+working directory=> staging area =>.git directory
+
+clone a repository
+git clone <url> <where to clone>
+
+
